@@ -1,6 +1,6 @@
 # DSA Challenge - 6 Companies in 30 Days
 
-![Challenge Banner](link_to_your_banner_image)
+![Challenge Banner](./imgs.png)
 
 ## Overview
 
